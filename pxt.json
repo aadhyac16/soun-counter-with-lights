@@ -1,5 +1,5 @@
 {
-    "name": "soun counter (with lights)",
+    "name": "sound counter (with lights)",
     "description": "",
     "dependencies": {
         "core": "*",
